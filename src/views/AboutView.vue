@@ -23,11 +23,6 @@ export default {
                  prix: 36,
                  stock: 3
              },
-             {
-                 nom: "Riz",
-                 prix: 15,
-                 stock: 2
-             },
          ];*/
          return this.$store.state.homes
      }

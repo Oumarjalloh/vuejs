@@ -13,11 +13,6 @@ export default createStore({
         prix: 36,
         stock: 3
     },
-    {
-        nom: "Riz",
-        prix: 15,
-        stock: 2
-    },
     ]
   },
   getters: {
