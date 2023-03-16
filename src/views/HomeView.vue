@@ -43,6 +43,7 @@ export default {
             this.helloWorld = {
                 nom: "",
                 prix: 0,
+                stock: 0,
             };
         }
     },
